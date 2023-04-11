@@ -1,8 +1,5 @@
-### Hello, I'm Érika!🌻
+## Hello, I'm Érika!🌻
+😄 Pronouns: she/her
 
 
-
-
-- 😄 Pronouns: she/her
-
--->
+          

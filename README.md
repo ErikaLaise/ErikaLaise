@@ -7,7 +7,7 @@ Se o pensamento gira, a mente não pira! Por isso, estou em constante aprendizad
 🛠 Perfil em construção 🛠
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
           
           
 

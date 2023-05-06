@@ -1,5 +1,5 @@
 ## Hello, I'm Érika! 👋
-🚀Estudando desenvolvimento web (Full Stack)
+🚀 Estudando desenvolvimento web (Full Stack)
 
 Xereta, curiosa, autodidata, tanto faz! Sou um tiquinho de cada e MUITO MAIS!
 

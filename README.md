@@ -13,17 +13,15 @@ Xereta, curiosa, autodidata, tanto faz! Sou um tiquinho de cada e MUITO MAIS!
  <img align="center" alt="ErikaLaise-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
-## Ferramentas:
-
-<p align="left">
 
 </p>
 
-## Redes Sociais:
+## Redes Sociais e Contato:
 
 <p align="left"> 
-<a href="https://linkedin.com/in/erikalaise" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erikalaise" height="30" width="40" /></a>
-<a href="https://instagram.com/erikalaise0602/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erikalaise/" height="30" width="40" /></a>
+ <a href="https://instagram.com/erikalaise0602" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/erikalaise" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:erikalaise@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 

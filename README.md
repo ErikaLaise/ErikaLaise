@@ -6,19 +6,16 @@ Xereta, curiosa, autodidata, tanto faz! Sou um tiquinho de cada e MUITO MAIS!
 
 ## 
 
+Linguagens e Ferramentas:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="ErikaLaise-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ErikaLaise-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ErikaLaise-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ErikaLaise-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="ErikaLaise-REACT" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-          
-
-##
-
-<div style="display: inline_block"><br>
   <img align="center" alt="ErikaLaise-VS CODE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-<img align="center" alt="ErikaLaise-GITHUB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="ErikaLaise-GITHUB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
           
        
           

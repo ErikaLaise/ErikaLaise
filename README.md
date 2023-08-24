@@ -15,6 +15,7 @@ Xereta, curiosa, autodidata, tanto faz! Sou um tiquinho de cada e MUITO MAIS!
   <img align="center" alt="ErikaLaise-REACT" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="ErikaLaise-VS CODE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="ErikaLaise-GITHUB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="ErikaLaise-GITHUB" height="40" width="50" src="https://github.com/symbl-cc/symbl-data.svg">
                  
 </div>
 
